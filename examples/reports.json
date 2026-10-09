@@ -1,0 +1,75 @@
+[
+  {
+    "document": "Sample_Service_Agreement.pdf",
+    "summary": "Nile Software Solutions and Zagazig Retail Group entered into a 12-month Service Agreement for the development and maintenance of a custom inventory management system. The Provider is responsible for designing, developing, testing, and deploying a web-based platform, and a monthly maintenance package. The Client agreed to pay a project fee of 450,000 EGP and a monthly maintenance fee of 8,000 EGP. Payments were to be made in three installments and delayed payments would incur a late fee. Confidentiality, limitation of liability, termination, and governing law were also outlined in the Agreement.",
+    "key_points": [
+      "12-month Agreement for custom inventory management system",
+      "Provider to design, develop, test, and deploy web-based platform",
+      "Monthly maintenance package included",
+      "Client agreed to pay project fee of 450,000 EGP and monthly maintenance fee of 8,000 EGP",
+      "Payments in three installments with late fee for delayed payments"
+    ],
+    "risks": [
+      "Late payments may incur a 2% of the outstanding amount per week late fee",
+      "Termination by either party requires 30 days written notice and the terminating party remains responsible for any unpaid fees",
+      "Either party may terminate Agreement before project completion with no refunds for completed milestones"
+    ],
+    "references": [
+      {
+        "document": "Sample_Service_Agreement.pdf",
+        "page": 1,
+        "chunk": 1,
+        "snippet": "The Client agrees to pay a total project fee of 450,000 EGP, payable in three installments: 40% upon signing, 40% upon delivery of a working prototype..."
+      },
+      {
+        "document": "Sample_Service_Agreement.pdf",
+        "page": 2,
+        "chunk": 2,
+        "snippet": "Either party may terminate this Agreement with 30 days written notice. If terminated by the Client before project completion, the Client remains respo..."
+      },
+      {
+        "document": "Sample_Service_Agreement.pdf",
+        "page": 1,
+        "chunk": 0,
+        "snippet": "Service Agreement Between Nile Software Solutions and Zagazig Retail Group 1. Parties and Purpose This Service Agreement (\"Agreement\") is entered into..."
+      }
+    ]
+  },
+  {
+    "document": "Sample_Service_Agreement_2.pdf",
+    "summary": "This document is a service agreement between Delta Software Experts (Provider) and Alexandria Trading Co. (Client) for the development and support of a custom CRM system. The agreement lasts for 18 months and includes a total project fee of 600,000 EGP and a quarterly support fee of 20,000 EGP. The Provider will provide design, development, testing, and deployment of the cloud-based CRM platform. Either party can terminate the agreement with 45 days written notice, with the Client being responsible for payment if terminated before project completion. The agreement includes confidentiality and limitation of liability clauses.",
+    "key_points": [
+      "18-month service agreement for custom CRM system development and support",
+      "Total project fee: 600,000 EGP, paid in 4 installments and a quarterly support fee of 20,000 EGP",
+      "Cloud-based CRM platform design, development, testing, and deployment by Provider",
+      "Either party can terminate with 45 days written notice, Client responsible for payment if terminated before project completion",
+      "Confidentiality and limitation of liability clauses"
+    ],
+    "risks": [
+      "Early termination by Client incurs 10% early termination fee and payment for work completed",
+      "Total Provider liability capped at 50% of total project fee",
+      "No indirect, incidental, or consequential damages for Provider",
+      "Disputes resolved through Alexandrian courts under Egyptian law"
+    ],
+    "references": [
+      {
+        "document": "Sample_Service_Agreement_2.pdf",
+        "page": 2,
+        "chunk": 2,
+        "snippet": "7. Termination Either party may terminate this Agreement with 45 days written notice. If terminated by the Client before project completion, the Clien..."
+      },
+      {
+        "document": "Sample_Service_Agreement_2.pdf",
+        "page": 1,
+        "chunk": 1,
+        "snippet": "The Client agrees to pay a total project fee of 600,000 EGP, payable in four installments: 25% upon signing, 25% upon completion of the design phase, ..."
+      },
+      {
+        "document": "Sample_Service_Agreement_2.pdf",
+        "page": 1,
+        "chunk": 0,
+        "snippet": "Service Agreement Between Delta Software Experts and Alexandria Trading Co. 1. Parties and Purpose This Service Agreement (\"Agreement\") is entered int..."
+      }
+    ]
+  }
+]
